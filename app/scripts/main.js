@@ -1,1 +1,1 @@
-console.log('ooh, the wonderful world of the console.');
+console.log('\'Allo \'Allo!');
